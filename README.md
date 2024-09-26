@@ -11,9 +11,9 @@
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
 # PROGRAM
-Developed By : Roop Sagar S L
-Reg No : 212223040175
 ```
+/*    Developed By : Roop Sagar S L
+      Reg No : 212223040175   */
 #include <stdio.h> 
 #include <ctype.h> 
 #include <string.h> 
